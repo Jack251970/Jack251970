@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Jack251970
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @Jack251970 (Jack Ye)
 
-<!---
-Jack251970/Jack251970 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning deep learning related to time-series forecasting, etc.
+
+- 👀 I’m interested in Windows application development, especially WinUI3.
+
+- 📫 How to reach me? Mail to [jack1160210343@gmail.com](mailto:jack1160210343@gmail.com).
+
+> Life is short, You need Python.
