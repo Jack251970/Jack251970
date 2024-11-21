@@ -1,5 +1,7 @@
 # 👋 Hi, I’m @Jack251970 (Jack Ye)
 
+## A perfectionist in a certain sense.
+
 - 🌱 I’m currently learning deep learning related to time-series forecasting, etc.
 
 - 👀 I’m interested in Windows application development, especially WinUI3.
