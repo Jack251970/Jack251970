@@ -2,7 +2,7 @@
 
 ## A perfectionist in a certain sense.
 
-- 🌱 I’m currently learning deep learning related to time-series forecasting, etc.
+- 🌱 I’m currently learning deep learning related to time-series forecasting, Large Language Model, etc.
 
 - 👀 I’m interested in Windows application development, especially WinUI3.
 
