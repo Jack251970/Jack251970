@@ -11,3 +11,9 @@
 * 📫 How to reach me? Mail to [jack1160210343@gmail.com](mailto:jack1160210343@gmail.com).
 
 > Life is short, You need Python.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jack251970&show_icons=true&theme=onedark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Jack251970&show_icons=true&theme=light">
+  <img alt="Jack Ye's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jack251970&show_icons=true&theme=light">
+</picture>
