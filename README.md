@@ -12,13 +12,13 @@
 
 > Life is short, You need Python.
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jack251970&show_icons=true&theme=onedark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Jack251970&show_icons=true&theme=light">
   <img alt="Jack Ye's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jack251970&show_icons=true&theme=light">
 </picture>
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Jack251970&row=3&column=6&theme=onedark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Jack251970&row=3&column=6&theme=default">
   <img alt="Jack Ye's Profile trophy" src="https://github-profile-trophy.vercel.app/?username=Jack251970&row=3&column=6&theme=default">
