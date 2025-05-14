@@ -22,8 +22,8 @@
 
 <p align="center" style="witdh:50%">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Jack251970&row=3&column=6&theme=onedark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Jack251970&row=3&column=6&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Jack251970&row=3&column=5&theme=onedark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Jack251970&row=3&column=5&theme=default">
     <img alt="Jack Ye's Profile trophy" src="https://github-profile-trophy.vercel.app/?username=Jack251970&row=3&column=5&theme=default">
   </picture>
 </p>
