@@ -4,7 +4,7 @@
 
 * 🌱 I’m currently learning deep learning related to time-series forecasting, reinforcement learning, power system, LLM, etc.
 
-* 👀 I’m interested in Windows application development, especially WinUI3.
+* 👀 I’m interested in Windows application development, especially WPF and WinUI3.
 
   * Member of [Flow-Launcher](https://github.com/Flow-Launcher)
 
