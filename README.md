@@ -7,6 +7,9 @@
 * 👀 I’m interested in Windows application development, especially WPF and WinUI3.
 
   * Member of [Flow-Launcher](https://github.com/Flow-Launcher)
+  * Owner of [ContextMenuManager](https://github.com/Jack251970/ContextMenuManager)
+ 
+* ❤️ I enjoy writing code in my spare time to inject my ideas into open-source projects.
 
 * 📫 How to reach me? Mail to [jack1160210343@gmail.com](mailto:jack1160210343@gmail.com).
 
@@ -27,3 +30,19 @@
     <img alt="Jack Ye's Profile trophy" src="https://github-profile-trophy.vercel.app/?username=Jack251970&row=3&column=5&theme=default">
   </picture>
 </p>
+
+## Tools I use & recommend to maximize productivity.
+
+* [ContextMenuManager](https://github.com/Jack251970/ContextMenuManager): Manage right-click context menu items.
+* [DIDA](https://www.dida365.com): Manage todo List and calendar.
+* [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher): Quick file search & app launcher.
+* [Immersive Translate](https://immersivetranslate.com): Bilingual web page translation.
+* [Inkscape](https://inkscape.org): Draw complex vector graphics.
+* [Internet Download Manager](https://www.internetdownloadmanager.com): Download accelerator.
+* [Obsidian](https://obsidian.md): Flexibly record private thoughts.
+* [Overleaf](https://www.overleaf.com): Online latex editor.
+* [PowerToys](https://github.com/microsoft/PowerToys): System utilities.
+* [PyCharm](https://www.jetbrains.com/pycharm): AI-enhanced python IDE.
+* [SimpleTex](https://www.simpletex.net): Latex formula & document recognition.
+* [UnigetUI](https://github.com/marticliment/UnigetUI): Manage & upgrade all packages & programs.
+* [Zotero](https://www.zotero.org): Collect, organize, annotate, cite, and share papers.
