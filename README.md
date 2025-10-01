@@ -47,3 +47,5 @@
 * [UnigetUI](https://github.com/marticliment/UnigetUI): Manage & upgrade all packages & programs.
 * [WindowSill](https://getwindowsill.app): Universal AI-powered command bar.
 * [Zotero](https://www.zotero.org): Collect, organize, annotate, cite, and share papers.
+
+> It is better to improve your own abilities than to improve your own abilities limited to tools.
