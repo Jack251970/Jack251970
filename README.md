@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Jack251970 (Jack Ye)
 
-## A perfectionist in a certain sense.
+## A perfectionist in a certain sense
 
 * 🌱 I’m currently learning deep learning related to time-series forecasting, reinforcement learning, power system, LLM, etc.
 
@@ -31,7 +31,7 @@
   </picture>
 </p>
 
-## Tools I use & recommend to maximize productivity.
+## Tools using & recommended to maximize productivity
 
 * [ContextMenuManager](https://github.com/Jack251970/ContextMenuManager): Manage right-click context menu items.
 * [DIDA](https://www.dida365.com): Manage todo List and calendar.
