@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Jack Ye's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 361, Total Commits  (last year) : 3297, Total PRs: 422, Total Issues: 156, Contributed to (last year): 51</desc>
+        <desc id="descId">Total Stars Earned: 374, Total Commits  (last year) : 3317, Total PRs: 422, Total Issues: 156, Contributed to (last year): 51</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 17.00086083389462;
+        stroke-dashoffset: 16.688137231344367;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >361</text>
+      >374</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
