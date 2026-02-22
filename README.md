@@ -35,6 +35,7 @@
 
 * [ContextMenuManager](https://github.com/Jack251970/ContextMenuManager): Manage right-click context menu items.
 * [DIDA](https://www.dida365.com): Manage todo List and calendar.
+* [EyeProtect](https://github.com/Jack251970/EyeProtect): Protect eyes based on the 20-20-20 rule.
 * [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher): Quick file search & app launcher.
 * [Immersive Translate](https://immersivetranslate.com): Bilingual web page translation.
 * [Inkscape](https://inkscape.org): Draw complex vector graphics.
