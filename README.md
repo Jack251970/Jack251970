@@ -8,7 +8,8 @@
 
   * Member of [Flow-Launcher](https://github.com/Flow-Launcher)
   * Owner of [ContextMenuManager](https://github.com/Jack251970/ContextMenuManager)
- 
+  * Contributor of [Codex-Manager](https://github.com/qxcnm/Codex-Manager)
+
 * ❤️ I enjoy writing code in my spare time to inject my ideas into open-source projects.
 
 * 📫 How to reach me? Mail to [jack1160210343@gmail.com](mailto:jack1160210343@gmail.com).
@@ -33,6 +34,7 @@
 
 ## Tools using & recommended to maximize productivity
 
+* [Codex-Manager](https://github.com/qxcnm/Codex-Manager): Manage codex usage.
 * [ContextMenuManager](https://github.com/Jack251970/ContextMenuManager): Manage right-click context menu items.
 * [DIDA](https://www.dida365.com): Manage todo List and calendar.
 * [EyeProtect](https://github.com/Jack251970/EyeProtect): Protect eyes based on the 20-20-20 rule.
