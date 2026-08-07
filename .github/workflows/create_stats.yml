@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Generate dark stats card
-        uses: readme-tools/github-readme-stats-action@v1.1
+        uses: readme-tools/github-readme-stats-action@v2.0
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=onedark
@@ -24,7 +24,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate light stats card
-        uses: readme-tools/github-readme-stats-action@v1.1
+        uses: readme-tools/github-readme-stats-action@v2.0
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=default
