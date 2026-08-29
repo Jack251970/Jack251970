@@ -2,7 +2,7 @@
 
 ## A perfectionist in a certain sense
 
-* 🌱 I’m currently learning deep learning related to time-series forecasting, power system, electricity market, etc.
+* 🌱 I’m currently learning deep learning related to power system, electricity market, time-series forecasting, etc.
 
 * 👀 I’m interested in Windows application development, especially WPF and WinUI3.
 
