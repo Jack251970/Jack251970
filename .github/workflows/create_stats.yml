@@ -15,6 +15,30 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
+      - name: Debug repository GraphQL
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        run: |
+          gh api graphql \
+            -f query='
+              query($username: String!) {
+                user(login: $username) {
+                  repositories(
+                    first: 50
+                    ownerAffiliations: OWNER
+                    orderBy: {direction: DESC, field: STARGAZERS}
+                  ) {
+                    totalCount
+                    nodes {
+                      name
+                      stargazerCount
+                    }
+                  }
+                }
+              }' \
+            -F username="$USERNAME"
+
       - name: Generate dark stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
