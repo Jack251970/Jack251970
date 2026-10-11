@@ -61,6 +61,7 @@ jobs:
           options: username=${{ github.repository_owner }}&row=3&column=5&theme=onedark
           path: profile/trophy_dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          version: v1.1.0
 
       - name: Generate light trophy card
         uses: soulteary/github-profile-trophy-action@v1.2.1
@@ -68,6 +69,7 @@ jobs:
           options: username=${{ github.repository_owner }}&row=3&column=5&theme=default
           path: profile/trophy_light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          version: v1.1.0
 
       - name: Commit cards
         run: |
