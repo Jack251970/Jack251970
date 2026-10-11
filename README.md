@@ -8,6 +8,7 @@
 
   * Member of [Flow-Launcher](https://github.com/Flow-Launcher)
   * Owner of [ContextMenuManager](https://github.com/Jack251970/ContextMenuManager)
+  * Owner of [EyeProtect](https://github.com/Jack251970/EyeProtect)
 
 * ❤️ I enjoy writing code in my spare time to inject my ideas into open-source projects.
 
