@@ -56,18 +56,20 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate dark trophy card
-        uses: soulteary/github-profile-trophy-action@v1.2.1
+        uses: soulteary/github-profile-trophy-action@v1.3.0
         with:
           options: username=${{ github.repository_owner }}&row=3&column=5&theme=onedark
           path: profile/trophy_dark.svg
-          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
       - name: Generate light trophy card
-        uses: soulteary/github-profile-trophy-action@v1.2.1
+        uses: soulteary/github-profile-trophy-action@v1.3.0
         with:
           options: username=${{ github.repository_owner }}&row=3&column=5&theme=default
           path: profile/trophy_light.svg
-          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
       - name: Commit cards
         run: |
