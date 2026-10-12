@@ -12,6 +12,7 @@
 
 * ❤️ I enjoy writing code in my spare time to inject my ideas into open-source projects.
 
+  * Contributor of [Time-Series-Library](https://github.com/thuml/Time-Series-Library)
   * Contributor of [Codex-Manager](https://github.com/qxcnm/Codex-Manager)
 
 * 📫 How to reach me? Mail to [jack1160210343@gmail.com](mailto:jack1160210343@gmail.com).
