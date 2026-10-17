@@ -408,7 +408,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 23.57px;
+        width: 23.82px;
       }
     }
     #Stars-rank-progress{
@@ -518,7 +518,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 79.12px;
+        width: 79.56px;
       }
     }
     #Commits-rank-progress{
